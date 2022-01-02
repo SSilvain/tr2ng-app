@@ -11,3 +11,9 @@ function documentActions(e) {
 	}
 
 }
+const funcSeven = () =>{
+	console.log('seven');
+}
+
+// funcSeven();
+console.log(funcSeven);
